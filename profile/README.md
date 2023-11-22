@@ -1,12 +1,5 @@
-## Hi there 👋
+## 📚 프로젝트 소개
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 다양한 측면의 영화 리뷰 작성으로
+### 리뷰의 신뢰성을 더욱 높인
+### 영화 리뷰 플랫폼 미리뷰 입니다
